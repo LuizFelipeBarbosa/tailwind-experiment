@@ -98,7 +98,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tailwindcss -i ./src/input.css -o ./build/css/output.css --watch"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./build/pages/output.css --watch"
   },
   "author": "",
   "license": "ISC",
